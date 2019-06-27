@@ -32,8 +32,9 @@ a{
 .fast-nav.nav{
     float: left;
 }
-.fast-nav.nav > ul{
+.fast-nav.nav > ul.left{
     float: left;
+    width: 200px；
 }
 .fast-nav.nav > ul > li{
     float: left;
