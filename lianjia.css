@@ -15,6 +15,7 @@ ul{
 }
 a{
     color: #333333;
+    text-decoration: none;
 }
 .wrapper{
     width: 1200px;
@@ -22,6 +23,7 @@ a{
 }
 /* 快捷导航 */
 .fast-nav{
+    font-size: 10px;
     border-bottom: 1px solid#ededed;
 }
 .fast-nav > .wrapper::after{
